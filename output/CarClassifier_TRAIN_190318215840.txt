@@ -1,0 +1,6 @@
+Reg: 10.0 RMSE:  0.727
+Reg: 1.0 RMSE:  0.727
+Reg: 0.1 RMSE:  1.000
+Reg: 0.01 RMSE:  1.000
+Reg: 0.001 RMSE:  1.000
+Accuracy is maximum for (0.1,1.0)
