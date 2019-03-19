@@ -1,2 +1,3 @@
-# car_analysis
-Classify cars as automatic or manual | Predict milage of cars
+# Car Analysis
+1. Classify cars as automatic or manual
+2. Predict milage of cars
